@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidDemoApp</string>
+    <string-array name="topic_names">
+        <item>Activices</item>
+        <item>Basic Views</item>
+
+    </string-array>
+</resources>
