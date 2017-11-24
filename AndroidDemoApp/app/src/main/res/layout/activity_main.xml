@@ -11,8 +11,8 @@
 
     <fragment
         android:id="@+id/fragment1"
+        class="com.androiddemoapp.TestFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        class="com.androiddemoapp.TestFragment"
         tools:layout="@layout/listfragment" />
 </RelativeLayout>
